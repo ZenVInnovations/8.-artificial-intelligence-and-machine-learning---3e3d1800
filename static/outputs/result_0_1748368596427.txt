@@ -1,0 +1,22 @@
+File: s2.png
+Extracted Text:
+It was the best of
+times, it was the worst
+of times, it was the age
+of wisdom, it was the
+age of foolishness...
+
+Language: en
+Sentiment: Positive (Score: 0.1779)
+Summary: "It was the age of wisdom, it
+
+Keywords:
+times (Relevance: 0.3333)
+best (Relevance: 0.1667)
+worst (Relevance: 0.1667)
+wisdom (Relevance: 0.1667)
+foolishness (Relevance: 0.1667)
+
+Entities:
+
+Custom Keywords:
